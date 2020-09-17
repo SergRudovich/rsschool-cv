@@ -1,7 +1,7 @@
 ## SIARHEI RUDOVICH
 ---
 ### Contacts:
-- some flat some St,  
+- some flat Krasnaya St,  
 - Luninets, Belarus, 225644  
 - Tel. +375 29 XXX XX XX  
 - <slunrew@tut.by>
