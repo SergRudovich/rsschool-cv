@@ -1,0 +1,40 @@
+.wrapper {
+    width: 55%;
+    max-width: 1024px;
+    margin: auto;
+    color: #8f8f8f;
+	font: 24px Tahoma, sans-serif;
+	background-color: #f8f8f8;
+}
+
+article {
+	padding: 20px 0;
+}
+
+header {
+    border-bottom: 5px solid #7e7e7e;
+}
+
+.parent > div:first-child{
+
+    float: left;
+    width: 25%;
+    padding: 20px;
+    text-align: right;
+
+}
+
+.rightblk{
+    padding: 20px;
+    text-align: left;
+    width: 60%;
+    margin-left: 35%;
+}
+
+ul {
+    margin: 0;
+}
+
+
+
+
